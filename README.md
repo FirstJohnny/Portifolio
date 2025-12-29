@@ -74,7 +74,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 1.  **Clone o repositório**
     ```bash
-    git clone https://github.com/seu-usuario/lonewolf-portfolio.git
+    git clone https://github.com/FirstJohnny/lonewolf-portfolio.git
     cd lonewolf-portfolio
     ```
 
